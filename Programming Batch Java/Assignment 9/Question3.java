@@ -62,6 +62,10 @@ class Question3{
 				System.out.println("You Need To Pay "+fare+" For "+distance+" KM");
 			}
 		}
+		else
+		{
+			System.out.println("Enter Correct Age:");
+		}
 	}
 	
 }
