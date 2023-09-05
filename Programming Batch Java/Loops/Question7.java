@@ -26,7 +26,7 @@ class Question7{
 		}while(count<=num);
 		System.out.println();
 		System.out.println();
-		
+			
 		for(int i=0;i<=num;i++)
 		{
 			if(i%2==0)
