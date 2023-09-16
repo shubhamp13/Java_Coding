@@ -6,6 +6,7 @@ class AutomorphicNumber
 		Scanner ip=new Scanner(System.in);
 		System.out.println("Enter Number");
 		int num=ip.nextInt();
+		
 		int digits=0;
 		for(int i=num;i!=0;i/=10)
 		{
